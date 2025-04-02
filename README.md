@@ -20,7 +20,7 @@ A simple and interactive **Tic-Tac-Toe** game built using **React** and **Materi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/react-mui-tictactoe.git
+   git clone https://github.com/kshitijvgarg/react-mui-tictactoe.git
    ```
 2. Navigate to the project folder:
    ```sh
