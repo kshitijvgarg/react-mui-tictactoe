@@ -35,10 +35,6 @@ A simple and interactive **Tic-Tac-Toe** game built using **React** and **Materi
    npm start
    ```
 
-## 📸 Screenshots (Optional)
-
-Add screenshots here if needed.
-
 ## 📌 How to Play
 
 1. Click on any empty square to place "X" or "O".
